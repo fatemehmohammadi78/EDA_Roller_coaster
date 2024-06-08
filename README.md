@@ -11,9 +11,13 @@ The dataset used for this project is available on Kaggle: [Rollercoaster Databas
 
 In this step, we import necessary libraries and read the dataset into our environment.
 
-### Step 1: Data Preperation
+### Step 1: Data Understanding
 
-...
+- **DataFrame Shape:** Display the dimensions of the DataFrame.
+- **Head and Tail:** Show the first few and last few rows of the DataFrame.
+- **Data Types (dtypes):** Display the data types of each column in the DataFrame.
+- **Summary Statistics (describe):** Provide summary statistics for numerical columns in the DataFrame.
+
 
 ### Step 2: Feature Understanding
 
