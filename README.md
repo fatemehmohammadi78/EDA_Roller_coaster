@@ -1,6 +1,9 @@
 # Exploratory Data Analysis
 
-This project aims to analyze and explore the provided dataset.
+This project aims to analyze and explore the provided dataset of over 1000 rollercoasters.
+
+## Dataset
+The dataset used for this project is available on Kaggle: [Rollercoaster Database](https://www.kaggle.com/datasets/robikscube/rollercoaster-database/data?select=coaster_db.csv)
 
 ## Steps
 
