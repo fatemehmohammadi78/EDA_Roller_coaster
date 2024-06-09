@@ -19,14 +19,27 @@ In this step, we import necessary libraries and read the dataset into our enviro
 - **Summary Statistics (describe):** Provide summary statistics for numerical columns in the DataFrame.
 
 
-### Step 2: Feature Understanding
+### Step 2: Data Preperation
 
-...
+-  Dropping irrelevant rows and columns.
+-  Identifying duplicated columns.
+-  Renaming Columns.
+-  Feature Creation.
 
-### Step 3: Feature Relationships
+### Step 3: Feature Understanding
 
-...
+#### Univariate Analysis
 
-### Step 4: Ask a Question about the data
+##### Plotting Feature Distributions
 
-...
+- Histogram
+- Kernel Density Estimation (KDE)
+
+### Step 4: Feature Relationships
+
+- Scatterplot
+- Heatmap Correlation
+- Pairplot
+- Groupby Comparisons
+
+###  Final Step: Ask questions about the data
